@@ -21,9 +21,9 @@ componentDidMount(){
 }
   render() {
       
-    return (<div>
+    return (<div className="container-fluid">
         <h1> Kekambas-79 Students</h1>
-        <table className="table table-light table-hover mt-5">
+        <table className=" table table-light table-hover mt-5">
         <thead>
             <tr>
             <th scope="col">ID</th>
